@@ -32,4 +32,5 @@ where:
   F
   
 
-[View a video explanation here](video link)
+## Video explonation
+https://youtu.be/rx9uW6ZOtUw

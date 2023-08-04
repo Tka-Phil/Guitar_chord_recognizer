@@ -24,4 +24,12 @@ where:
   " --labels=labels.txt "  - sets the chord labels.
   " /dev/video0 "  - shows the video from camera 0. 
 
+  ## Suppored chords
+  Am
+  C
+  Em
+  Dm
+  F
+  
+
 [View a video explanation here](video link)
